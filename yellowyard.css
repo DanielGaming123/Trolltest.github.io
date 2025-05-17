@@ -1,0 +1,8 @@
+#userachievements a:last-of-type::before {
+  content: '';
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  left: calc(100% + 16px);
+  background: url(https://mspfa.com/images/achievements/9.png);
+}
